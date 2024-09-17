@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "curso";
+    src: url('._idroid.otf' ) format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    background-color: #84E1AD;
+    
+}
+header{
+    background-color:aquamarine;
+    text-align: center;
+    
+
+
+}
+
+main {
+    background-color: white;   
+    width: 938px;
+    margin: auto; 
+}
+.outro{ 
+    color: #2e6346;
+}
+h2 {
+    color: #2e6346;
+}
+p {
+
+    text-align: justify;
+}
+img {
+    margin: auto;
+}
